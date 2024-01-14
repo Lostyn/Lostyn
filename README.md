@@ -2,4 +2,3 @@
 - 👀 I’m interested in Software developpement with WEB technologie and realtime rendering
 - 🌱 I’m currently learning back-end and CI workflow + engine developpment
 - 💞️ I’m looking to collaborate on Software and tools developpement for Workflow or games.
-- 📫 You can reach me on my email vincent.spiandore@gmail.com
